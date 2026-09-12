@@ -1,0 +1,19 @@
+# Sanal ortam
+.venv/
+
+# Kuruma ait kaynak dosya
+lidar_detection_tracking.py
+
+# Python önbelleği ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+
+# Test ve araç önbellekleri
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Yerel çalışma dosyaları
+*.log
+*.tmp
+*.bak

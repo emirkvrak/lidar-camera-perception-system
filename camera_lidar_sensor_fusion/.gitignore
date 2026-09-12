@@ -1,0 +1,11 @@
+src/core/enums.py
+src/core/constants.py
+vendor/
+src/core/mvs/
+
+# Sanal ortam
+.venv/
+
+# Python önbelleği ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
