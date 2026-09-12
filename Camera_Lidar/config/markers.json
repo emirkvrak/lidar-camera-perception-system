@@ -1,0 +1,32 @@
+{
+    "markers": [
+        {
+            "name": "duba_1",
+            "visible": true,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 15.0
+            },
+            "size": {
+                "width": 0.3,
+                "height": 0.75
+            },
+            "color": "#FFFF00"
+        },
+        {
+            "name": "duba_2",
+            "visible": true,
+            "position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -15.0
+            },
+            "size": {
+                "width": 0.3,
+                "height": 0.75
+            },
+            "color": "#0000FF"
+        }
+    ]
+}

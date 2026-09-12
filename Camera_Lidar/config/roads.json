@@ -1,0 +1,17 @@
+{
+    "roads": [
+        {
+            "name": "Road1",
+            "visible": true,
+            "type": "incoming",
+            "lane_width": 3.75,
+            "color": "#00FF00",
+            "incoming": {
+                "count": 3
+            },
+            "outgoing": {
+                "count": 0
+            }
+        }
+    ]
+}

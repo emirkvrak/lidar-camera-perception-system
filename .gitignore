@@ -1,0 +1,31 @@
+# --- Python Derleme ve Önbellek ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Sanal Ortamlar ---
+venv/
+env/
+.venv/
+.env
+
+# --- IDE Ayarları ---
+.vscode/
+.idea/
+*.swp
+
+# --- BÜYÜK Veri Dosyaları (Github'a GİTMESİN) ---
+# Orijinal büyük veriyi engelliyoruz
+lidar.data
+Lidar4/lidar.data
+Camera_Lidar/config/lidar.data
+
+# --- Diğer Büyük Formatlar ---
+*.pcap
+*.las
+*.laz
+
+# --- Loglar ve Sistem Dosyaları ---
+*.log
+.DS_Store
+Thumbs.db

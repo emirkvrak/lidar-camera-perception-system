@@ -1,0 +1,16 @@
+{
+    "lidars": [
+        {
+            "name": "lidar1",
+            "visible": true,
+            "extrinsic": {
+                "x": -3.0,
+                "y": 1.7,
+                "z": 0.0,
+                "yaw": -72.0,
+                "pitch": -2.4,
+                "roll": 0.0
+            }
+        }
+    ]
+}
